@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B88A845122A363B100FA1D62 /* ImageTableviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B88A845022A363B100FA1D62 /* ImageTableviewCell.swift */; };
+		B88A845322A3673500FA1D62 /* ImageDownloadService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B88A845222A3673500FA1D62 /* ImageDownloadService.swift */; };
 		B8A8B2A322A1AB830030B0FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A8B2A222A1AB830030B0FB /* AppDelegate.swift */; };
 		B8A8B2A522A1AB830030B0FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A8B2A422A1AB830030B0FB /* ViewController.swift */; };
 		B8A8B2A822A1AB830030B0FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8A8B2A622A1AB830030B0FB /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		B88A845022A363B100FA1D62 /* ImageTableviewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageTableviewCell.swift; sourceTree = "<group>"; };
+		B88A845222A3673500FA1D62 /* ImageDownloadService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDownloadService.swift; sourceTree = "<group>"; };
 		B8A8B29F22A1AB830030B0FB /* GDC-Exercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GDC-Exercise.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8A8B2A222A1AB830030B0FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8A8B2A422A1AB830030B0FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				B8A8B2AB22A1AB850030B0FB /* LaunchScreen.storyboard */,
 				B8A8B2AE22A1AB850030B0FB /* Info.plist */,
 				B88A845022A363B100FA1D62 /* ImageTableviewCell.swift */,
+				B88A845222A3673500FA1D62 /* ImageDownloadService.swift */,
 			);
 			path = "GDC-Exercise";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8A8B2A522A1AB830030B0FB /* ViewController.swift in Sources */,
+				B88A845322A3673500FA1D62 /* ImageDownloadService.swift in Sources */,
 				B88A845122A363B100FA1D62 /* ImageTableviewCell.swift in Sources */,
 				B8A8B2A322A1AB830030B0FB /* AppDelegate.swift in Sources */,
 			);
